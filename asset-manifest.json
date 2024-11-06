@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6970199c.css",
+    "main.js": "/static/js/main.e9185aab.js",
+    "static/js/453.59b56b23.chunk.js": "/static/js/453.59b56b23.chunk.js",
+    "static/media/DancingScript-Regular.ttf": "/static/media/DancingScript-Regular.5e15416c2d596d51a588.ttf",
+    "index.html": "/index.html",
+    "main.6970199c.css.map": "/static/css/main.6970199c.css.map",
+    "main.e9185aab.js.map": "/static/js/main.e9185aab.js.map",
+    "453.59b56b23.chunk.js.map": "/static/js/453.59b56b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6970199c.css",
+    "static/js/main.e9185aab.js"
+  ]
+}
